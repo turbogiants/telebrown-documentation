@@ -1,2 +1,2 @@
 # turbogiants.github.io
-Telebrown Privacy Policy
+Turbo Giants Documentation
